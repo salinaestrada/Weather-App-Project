@@ -30,6 +30,10 @@ h5 {
   font-weight: 100;
 }
 
+small {
+  padding: 40px;
+}
+
 .container {
   margin: 0;
   text-align: center;
